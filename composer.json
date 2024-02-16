@@ -1,6 +1,7 @@
 {
   "name": "craftcms/commerce",
   "description": "Craft Commerce",
+  "version": "4.4.1.1",
   "type": "craft-plugin",
   "keywords": [
     "cms",
